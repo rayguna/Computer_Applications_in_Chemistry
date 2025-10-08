@@ -9,3 +9,4 @@
 | 5   | simple_fuctions.ipynb                                   | • Two simple function examples to demonstrate basic input/output, default inputs, and multiple outputs. |
 | 6   | chemical_property_prediction.ipynb | • Shows examples of using Chempy, RDKit, and Py3Dmol to represent compounds via formulas or SMILES and obtain their properties. | 
 | 7   | define_compound_with_chempy_and_units_with_quantities.ipynb | • Use the chempy library to define a compound by its molecular formula, and the quantities library to define physical units. | 
+| 8.  | simple_rdkit.ipynb | • Define compound • Display the chemical structure and obtain molar mass |
